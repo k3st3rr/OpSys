@@ -1,0 +1,10 @@
+Package: pr2
+Version: 1.0
+Section: unknown
+Priority: optional
+Depends: libc6
+Architecture: amd64
+Essential: no
+Installed-Size: 16
+Maintainer: k3st3rr <denigoy62@gmail.com>
+Description: Programm 2 from Lecture 2
