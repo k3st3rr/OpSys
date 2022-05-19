@@ -1,4 +1,4 @@
-Package: prog6
+Package: prog7
 Version: 1.0
 Section: unknown
 Priority: optional
@@ -7,4 +7,4 @@ Architecture: amd64
 Essential: no
 Installed-Size: 20
 Maintainer: k3st3rr <denigoy62@gmail.com>
-Description: Program6 from Lec4
+Description: Program7 from Lec4
